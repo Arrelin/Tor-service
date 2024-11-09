@@ -1,2 +1,5 @@
 # Tor-service
 Actually good way to make yourlesf a proxy if needed, especially if u r in russia
+
+#TODO
+make a good guide in both languages типа да
