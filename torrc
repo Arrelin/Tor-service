@@ -10,8 +10,8 @@ ExitNodes {de}, {fr}, {fi}, {nl}, {nz}, {no}, {ch}, {se}, {dk}, {ee}
 ClientTransportPlugin obfs2,obfs3,obfs4,scramblesuit exec C:/Program Files/Tor/tor/pluggable_transports/lyrebird.exe
 UseBridges 1
 
-Bridge obfs4 212.186.140.122:11964 D0127814D5E23478A11BC3FDC86F058B80B370F4 cert=J600BAe20PyWR9+XZeVwxu1rGkCZJOuA+4UzPK+gOjfwuQ9XfuzF29YFXLSbt7PHLMSiUg iat-mode=0
-Bridge obfs4 185.177.207.233:11233 B8DFC8F455000A5C6C740175A6604642CB50A83D cert=cYWJY9X7MunIDSWpdhKEW/cRCX6rtZbVp2YqLf+4Vht3epd66bKBetJ7gnN6QjfqO6LPEg iat-mode=0
+Bridge obfs4 nuuzhnet.com4 D0127814D5E23478A11BC3FDC86F058B80B370F4 cert=J600BAe20PyWR9+XZeVwxu1rGkCZJOuA+4UzPK+gOjfwuQ9XfuzF29YFXLSbt7PHLMSiUg iat-mode=0
+Bridge obfs4 thaths.mine.bridges B8DFC8F455000A5C6C740175A6604642CB50A83D cert=cYWJY9X7MunIDSWpdhKEW/cRCX6rtZbVp2YqLf+4Vht3epd66bKBetJ7gnN6QjfqO6LPEg iat-mode=0
 
 
 AvoidDiskWrites 1
