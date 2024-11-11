@@ -17,7 +17,7 @@ RU
 3. Настроить файл конфигурации под свои нужды.
 4. Запустить, проверить что работает и устраивает.
 
-Further will be whole guide in one language then in other so u dont need to skip text which may be confusing.
+Further will be whole guide in one language then in other so u dont need to skip text which may be confusing. <br>
 EN MAIN<br>
 RU MAIN<br>
 1. <b>Достаем файлы тора</b> <br>
