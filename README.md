@@ -80,5 +80,6 @@ RU MAIN<br>
      
 #TODO
 now make it in english please
+tomorrow pls
 
 "C:\Program Files\Tor\tor\tor.exe" --service install -options -f "C:\Program Files\Tor\torrc" for next
