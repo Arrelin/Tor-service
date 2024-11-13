@@ -6,7 +6,7 @@ A simplest guide to make urself a proxy with local forwarding, i suppose u alrea
 ## Sequence of actions/Последовательность действий
 
 EN
-1. Take ur files for CLI tor.
+1. Take your files for CLI tor.
 2. Get a pair of bridges for proxy.
 3. Setup torrc file for ur needs.
 4. Launch and check if it even working.
